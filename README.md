@@ -1,1 +1,1 @@
-Visualización interactiva de estadísticas de Instagram a partir de datos exportados.
+Visualización estadísticas de Instagram a partir de datos exportados.
