@@ -1,0 +1,17 @@
+
+Reporte de Seguidores en Instagram (Enero - Junio)
+
+1. Tendencia de crecimiento mensual:
+    Mes Crecimiento Crecimiento %
+  Enero           -             -
+Febrero        21.0          1.76
+  Marzo        -7.0         -0.58
+  Abril        48.0          3.98
+   Mayo       123.0           9.8
+  Junio        30.0          2.18
+
+2. Crecimiento total de seguidores (Enero a Junio): 215 seguidores
+
+3. Promedio de seguidores por mes: 1275.83
+
+4. Mes con mayor crecimiento: Mayo con 123.0 seguidores adicionales
